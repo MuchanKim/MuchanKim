@@ -29,9 +29,6 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div align=center>
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
