@@ -2,9 +2,10 @@
 - [[팀프로젝트]공간 이미지 기반 음악 추천 앱](https://github.com/coconut-DCU)
 - [[팀프로젝트]교내 정보 알림 및 관제 웹 앱](https://github.com/smink112/CapstoneDesign)
 - 교육 활동
-  - (주)코딩아이 인턴 - 초, 중학생 코딩 캠프 강사 활동
-  - (주)생각을 코딩하다 - 모빌리티 윈터캠프 보조강사 
-  - 교내 신입생 대상 프로그래밍 기초 교육 멘토 
+  - (주)코딩아이 - 남부 초등 ON 메이커 미래스쿨 보조강사
+  - (주)코딩아이 - 남부 중등(Young) 메이커 프로그램 1, 2기 보조강사
+  - (주)생각을코딩하다 - 제 2회 모빌리티 윈터캠프 보조강사(고등부) 
+  - Daegu Catholic Univ. - AI·SW 수업연계 기초교육 프로그램 멘토
 ### 🧐 Interest
 - Software Engineering
 - Education, Leadership, Mentoring
