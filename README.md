@@ -1,11 +1,10 @@
 ### 👨🏻‍🎓 Student
-- [[팀프로젝트]공간 이미지 기반 음악 추천 앱](https://github.com/coconut-DCU)
-- [[팀프로젝트]교내 정보 알림 및 관제 웹 앱](https://github.com/smink112/CapstoneDesign)
+- [[팀프로젝트]공간 이미지 기반 음악 추천 시스템](https://github.com/coconut-DCU)
+- [[팀프로젝트]교내 정보 알림 및 관제 시스템](https://github.com/smink112/CapstoneDesign)
 - 교육 활동
-  - (주)코딩아이 - 남부 초등 ON 메이커 미래스쿨 보조강사
-  - (주)코딩아이 - 남부 중등(Young) 메이커 프로그램 1, 2기 보조강사
-  - (주)생각을코딩하다 - 제 2회 모빌리티 윈터캠프 보조강사(고등부) 
-  - Daegu Catholic Univ. - AI·SW 수업연계 기초교육 프로그램 멘토
+  - (주)코딩아이 - 남부 초등 ON 메이커 미래스쿨 멘토
+  - (주)코딩아이 - 남부 중등(Young) 메이커 프로그램 1, 2기 멘토
+  - (주)생각을코딩하다 - 제 2회 모빌리티 윈터캠프 멘토(고등부) 
 ### 🧐 Interest
 - Software Engineering
 - Education, Leadership, Mentoring
@@ -33,10 +32,6 @@
   <a href="https://www.facebook.com/profile.php?id=100006046778650">
     <img
       src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/99mooooo/">
-    <img
-      src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
