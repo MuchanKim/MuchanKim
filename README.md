@@ -1,12 +1,8 @@
-### 👨🏻‍🎓 Student
-- 교육 활동
-  - (주)코딩아이 - 남부 초등 ON 메이커 미래스쿨 멘토
-  - (주)코딩아이 - 남부 중등(Young) 메이커 프로그램 1, 2기 멘토
-  - (주)생각을코딩하다 - 제 2회 모빌리티 윈터캠프 멘토(고등부) 
 ### 🧐 Interest
 - Software Engineering
-- Education, Leadership, Mentoring
+- Education, Communication
 - IoT / Embedded(Arduino, RaspberryPi, JetsonNano)
+- Apple Ecosystem Software Development(Currently studying main stack)
 
 <h3 align>🐥 Programming Languages</h3>
 <div align=center>
@@ -27,18 +23,15 @@
     <img
       src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100006046778650">
-    <img
-      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
 </div>
 
 ### 🕹️ Project
-|프로젝트|기술스택|상태|
-| --------------------------------------- | ------------------------------------- | ------------------------------------- |
-[러닝 플랫폼 Move](https://github.com/Apple-Foundtaion-4th-Move/MoveApp) | SwiftUI | 진행중 
-[공간 이미지 기반 음악 추천 시스템](https://github.com/MuchanKim/Coconut) | Flutter, Python, FastAPI, ML(VIT) | 완료
-[교내 정보 알림 및 관제 시스템](https://github.com/MuchanKim/2023-DCUIN) | React, RaspberryPi, Python, ML(YOLO) | 완료
+| Project | Contest | Tech Stack | Year|
+| --------------------------------------- | ------------------------------------- | ------------------------------------- | -----------|
+[베와보카](https://github.com/DigiLabChallengeHackathon/bewavoca-ios) | [ 디지랩해커톤](https://digilab-hackathon.com/team/) | iPadOS, SwiftUI | 2024
+[러닝 플랫폼 Move](https://github.com/Apple-Foundtaion-4th-Move/MoveApp) | [애플파운데이션프로그램](https://developeracademy.postech.ac.kr/foundation-program) | iOS, SwiftUI,  MapKit | 2024
+[공간 이미지 기반 음악 추천 시스템](https://github.com/MuchanKim/Coconut) | [벤처스타트업아카데미](https://www.mainbiz.or.kr/business/venture_startup_a.asp) | Flutter, Python, FastAPI, ML(VIT) | 2024
+[교내 정보 알림 및 관제 시스템](https://github.com/MuchanKim/2023-DCUIN) | 교내 캡스톤디자인 | React, RaspberryPi, Python, ML(YOLO) | 2023
 
 <h3 align>🏆 BOJ solved rank </h3>
 <div align>
