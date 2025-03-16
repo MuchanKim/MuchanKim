@@ -11,10 +11,19 @@
 
 Hola👋 I'm Moo(Muchan).
 ### 🧐 Interest
-- Software Engineering
 - Education, Communication
 - IoT / Embedded(Arduino, RaspberryPi, JetsonNano)
 - Apple Ecosystem Software Development(Currently studying main stack)
+
+### 🤓 2025 Goals  
+
+- [ ] **Improve English** – Reach **intermediate or higher** in listening & speaking (for going abroad).  
+- [ ] **WWDC 2026 Swift Student Challenge** – Create a personal project from development to design. A lovely idea. It may be a platform I’ve never developed on before.  
+- [ ] **Build a healthy physique** – CrossFit, futsal, etc., at least **twice a week**. (I want to improve in weight training, but not sure yet...)  
+- [ ] **Complete Apple Developer Academy** – No absences. Not every day will shine, but I hope those days come together to create light.  
+
+
+
 
 <!--
 <h3 align>🐥 Programming Languages</h3>
